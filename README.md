@@ -1,3 +1,12 @@
+## Repository Contents
+
+This repository contains the following resources for the E-Notarize PH project:
+
+| File                                                       | Description                                                                          |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [marketing_best_practices.md](marketing_best_practices.md) | Best practices for marketing an e-notarization service to individuals and businesses |
+| [index.html](index.html)                                   | Web page for the E-Notarize PH service (blank for now)                               |
+
 # E-Notarize PH: Revolutionizing Document Authentication in the Philippines
 
 The recent approval of electronic notarization rules by the Supreme Court of the Philippines presents a tremendous opportunity to transform how legal documents are authenticated. As someone looking to capitalize on this regulatory shift, you're positioned at the frontier of legal technology innovation in the country. Below is a comprehensive startup plan that covers your pitch deck, business plan, and product description for an e-notarization service in the Philippines.
